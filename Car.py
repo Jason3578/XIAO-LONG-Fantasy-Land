@@ -66,7 +66,7 @@ enemy_speed = 3
 
 
 # Define the dimensions of the food objects
-food_width, food_height = 50, 50
+food_width, food_height = 80, 80
 hamburger = pygame.transform.scale(hamburger, (food_width, food_height))
 icecream = pygame.transform.scale(icecream, (food_width, food_height))
 pizza = pygame.transform.scale(pizza, (food_width, food_height))
